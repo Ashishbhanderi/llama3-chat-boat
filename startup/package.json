@@ -1,0 +1,25 @@
+{
+  "name": "llama3-chat-startup",
+  "version": "1.0.0",
+  "description": "Startup scripts for Llama 3 Chat Application",
+  "main": "start.sh",
+  "scripts": {
+    "start": "./start.sh start",
+    "stop": "./start.sh stop",
+    "restart": "./start.sh restart",
+    "status": "./start.sh status",
+    "logs": "./start.sh logs",
+    "install": "./start.sh install",
+    "check": "./start.sh check"
+  },
+  "keywords": [
+    "llama3",
+    "chat",
+    "startup",
+    "deployment"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+} 

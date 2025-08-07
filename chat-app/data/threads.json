@@ -1,0 +1,34 @@
+{
+  "ashish": [
+    {
+      "id": "4a2ad76a-379c-4d4b-9b69-2be8270e13f9",
+      "name": "New Conversation",
+      "createdAt": "2025-08-05T05:22:08.322Z",
+      "lastActivity": "2025-08-05T05:22:14.211Z"
+    },
+    {
+      "id": "91fe0b46-0448-426a-aeb8-e322f3a1f1a0",
+      "name": "oo",
+      "createdAt": "2025-08-05T05:27:12.620Z",
+      "lastActivity": "2025-08-05T07:29:23.285Z"
+    }
+  ],
+  "Ashish": [
+    {
+      "id": "8277ac50-d573-46f6-ab3a-79fa076b36c3",
+      "name": "New Conversation",
+      "createdAt": "2025-08-05T10:58:36.018Z",
+      "lastActivity": "2025-08-05T11:02:53.099Z"
+    },
+    {
+      "id": "20fd8d1d-55b1-4ea5-8631-1d47d6459bd6",
+      "name": "general",
+      "createdAt": "2025-08-05T18:10:09.968Z"
+    },
+    {
+      "id": "75b4ee41-f479-4185-a806-2578abab4b50",
+      "name": "stk",
+      "createdAt": "2025-08-06T05:17:41.593Z"
+    }
+  ]
+}

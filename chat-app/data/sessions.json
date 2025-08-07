@@ -1,0 +1,16 @@
+{
+  "ashish": {
+    "username": "ashish",
+    "apiKey": "test-key",
+    "roomId": "general",
+    "lastSeen": "2025-08-05T11:34:50.249Z",
+    "socketId": "9RTE6Ue2D2eSbDGrAABV"
+  },
+  "Ashish": {
+    "username": "Ashish",
+    "apiKey": "111",
+    "roomId": "general",
+    "lastSeen": "2025-08-06T10:24:59.480Z",
+    "socketId": "5sA8h3K64LR88S2cAABe"
+  }
+}

@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: llama3-chat-backend
+    env: node
+    buildCommand: npm install && cd client && npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: LLAMA3_API_URL
+        value: http://localhost:3001/api/chat
+    healthCheckPath: /api/health
+    autoDeploy: true
+
+  - type: web
+    name: llama3-chat-frontend
+    env: static
+    buildCommand: cd client && npm install && npm run build
+    staticPublishPath: ./client/build
+    envVars:
+      - key: REACT_APP_BACKEND_URL
+        value: https://llama3-chat-backend.onrender.com 

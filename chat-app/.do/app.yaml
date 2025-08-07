@@ -1,0 +1,17 @@
+name: llama3-chat-app
+services:
+- name: web
+  source_dir: /
+  github:
+    repo: your-username/llama3-chat-app
+    branch: main
+  run_command: npm start
+  build_command: npm run install-client && npm run build
+  environment_slug: node-js
+  instance_count: 1
+  instance_size_slug: basic-xxs
+  envs:
+  - key: NODE_ENV
+    value: production
+  - key: LLAMA3_API_URL
+    value: http://localhost:3001/api/chat 

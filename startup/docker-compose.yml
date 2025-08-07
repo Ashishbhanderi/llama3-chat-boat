@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    command: ollama serve
+
+  llama3-chat:
+    build: .
+    container_name: llama3-chat
+    ports:
+      - "3000:3000"
+      - "3001:3001"
+    environment:
+      - NODE_ENV=production
+      - LLAMA3_API_URL=http://localhost:3000/api/chat
+    depends_on:
+      - ollama
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    command: ["./start.sh", "start"]
+
+volumes:
+  ollama_data: 

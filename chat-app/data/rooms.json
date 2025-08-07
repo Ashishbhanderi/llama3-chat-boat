@@ -1,0 +1,391 @@
+{
+  "general": {
+    "threads": {
+      "4a2ad76a-379c-4d4b-9b69-2be8270e13f9": [
+        {
+          "id": "ca76f3b0-5df7-4367-9d34-a6262a523b34",
+          "username": "ashish",
+          "message": "hello",
+          "timestamp": "2025-08-05T05:22:14.211Z",
+          "type": "user"
+        },
+        {
+          "id": "6d6622ac-40fd-413b-aed1-a112141c5d8f",
+          "username": "Llama 3 AI",
+          "message": "Sorry, I encountered an error processing your request.",
+          "timestamp": "2025-08-05T05:22:14.262Z",
+          "type": "ai"
+        },
+        {
+          "id": "7a072699-57ca-4702-85e3-158569a79d11",
+          "username": "ashish",
+          "message": "hi",
+          "timestamp": "2025-08-05T11:34:17.890Z",
+          "type": "user"
+        },
+        {
+          "id": "a29ca7ca-869a-44c6-bf2a-02753842f9be",
+          "username": "Llama 3 AI",
+          "message": "Error: canceled",
+          "timestamp": "2025-08-05T11:34:17.896Z",
+          "type": "ai",
+          "isStreaming": false
+        }
+      ],
+      "91fe0b46-0448-426a-aeb8-e322f3a1f1a0": [
+        {
+          "id": "ddfdaadc-dc48-46f9-9e21-015b8c8a8659",
+          "username": "ashish",
+          "message": "hello",
+          "timestamp": "2025-08-05T05:27:23.454Z",
+          "type": "user"
+        },
+        {
+          "id": "04d4b1a8-2cfb-4a1c-9663-e08eb4ddeb18",
+          "username": "Llama 3 AI",
+          "message": "Sorry, I encountered an error processing your request.",
+          "timestamp": "2025-08-05T05:27:23.506Z",
+          "type": "ai"
+        },
+        {
+          "id": "e44a40f0-8f0d-4855-885e-549996e91391",
+          "username": "ashish",
+          "message": "hi",
+          "timestamp": "2025-08-05T06:32:12.964Z",
+          "type": "user"
+        },
+        {
+          "id": "30d24e85-f460-47a5-8ca1-b76f7f70240b",
+          "username": "Llama 3 AI",
+          "message": "Sorry, I encountered an error processing your request.",
+          "timestamp": "2025-08-05T06:32:13.174Z",
+          "type": "ai"
+        },
+        {
+          "id": "71c52136-eb2b-46c5-9b1d-2665205ae225",
+          "username": "ashish",
+          "message": "hi",
+          "timestamp": "2025-08-05T06:34:45.536Z",
+          "type": "user"
+        },
+        {
+          "id": "03bb91ec-ff08-4bf5-9204-f9831217e6b1",
+          "username": "Llama 3 AI",
+          "message": "Sorry, I encountered an error processing your request.",
+          "timestamp": "2025-08-05T06:34:45.572Z",
+          "type": "ai"
+        },
+        {
+          "id": "21a00714-64b0-43b6-a1cd-b1bca1b71183",
+          "username": "ashish",
+          "message": "hi",
+          "timestamp": "2025-08-05T06:43:30.636Z",
+          "type": "user"
+        },
+        {
+          "id": "d2a3517e-6b83-49d9-ab3a-89e7646a3096",
+          "username": "Llama 3 AI",
+          "message": "Error: Llama 3 API server is not running. Please start the API server.",
+          "timestamp": "2025-08-05T06:43:30.677Z",
+          "type": "ai"
+        },
+        {
+          "id": "94799a93-5cfa-4ea5-a32c-99e98d1742cc",
+          "username": "ashish",
+          "message": "hi",
+          "timestamp": "2025-08-05T06:47:12.404Z",
+          "type": "user"
+        },
+        {
+          "id": "c0b3f1cb-0b5b-4b78-ad7c-245c81131026",
+          "username": "Llama 3 AI",
+          "message": "Error: Llama 3 API server is not running. Please start the API server.",
+          "timestamp": "2025-08-05T06:47:12.414Z",
+          "type": "ai"
+        },
+        {
+          "id": "0ce491b5-ef6c-412d-88a3-a440128f5996",
+          "username": "ashish",
+          "message": "hi",
+          "timestamp": "2025-08-05T06:50:41.339Z",
+          "type": "user"
+        },
+        {
+          "id": "2e4fdac6-dd26-49c2-92a9-6017f086c782",
+          "username": "Llama 3 AI",
+          "message": "Error: Request failed with status code 400. Please check if Ollama is running and the llama3 model is available.",
+          "timestamp": "2025-08-05T06:50:41.400Z",
+          "type": "ai"
+        },
+        {
+          "id": "a8040520-4239-42d2-94a1-31a500522e23",
+          "username": "ashish",
+          "message": "hi",
+          "timestamp": "2025-08-05T06:53:31.781Z",
+          "type": "user"
+        },
+        {
+          "id": "08c7a8dd-0c19-499b-93b3-cf9ff71f5dc2",
+          "username": "Llama 3 AI",
+          "message": "No response from AI",
+          "timestamp": "2025-08-05T06:53:48.139Z",
+          "type": "ai"
+        },
+        {
+          "id": "e6a9504d-ea8f-4916-a520-af606e91af83",
+          "username": "ashish",
+          "message": "hi",
+          "timestamp": "2025-08-05T07:10:31.798Z",
+          "type": "user"
+        },
+        {
+          "id": "dc578dc2-7684-4e84-b11e-249a5ecf0447",
+          "username": "Llama 3 AI",
+          "message": "Error: Llama 3 API server is not running. Please start the API server.",
+          "timestamp": "2025-08-05T07:10:31.837Z",
+          "type": "ai"
+        },
+        {
+          "id": "c763083f-f550-4802-bfe7-26daa056b64c",
+          "username": "ashish",
+          "message": "hi",
+          "timestamp": "2025-08-05T07:11:03.253Z",
+          "type": "user"
+        },
+        {
+          "id": "6fb1983f-4c6e-4a14-ad13-ed011b19ace9",
+          "username": "Llama 3 AI",
+          "message": "Error: Request failed with status code 400. Please check if Ollama is running and the llama3 model is available.",
+          "timestamp": "2025-08-05T07:11:03.348Z",
+          "type": "ai"
+        },
+        {
+          "id": "e01e2565-4768-421c-a76f-9b5c2f4cb3b1",
+          "username": "ashish",
+          "message": "hello",
+          "timestamp": "2025-08-05T07:22:46.111Z",
+          "type": "user"
+        },
+        {
+          "id": "165ed9c2-2d9c-4e59-a716-86ebc74d35f1",
+          "username": "Llama 3 AI",
+          "message": "A conversation with a Llama 3 AI!\n\nIt looks like there's an issue, though - the API server isn't running, so I'll just respond as if I'm a regular chatbot.\n\nHello! It's nice to meet you. How can I help or chat with you today?",
+          "timestamp": "2025-08-05T07:23:11.380Z",
+          "type": "ai"
+        },
+        {
+          "id": "a63ef8d1-a492-4f55-8342-44a552a27254",
+          "username": "ashish",
+          "message": "hello",
+          "timestamp": "2025-08-05T07:29:23.285Z",
+          "type": "user"
+        },
+        {
+          "id": "a4c98093-37c9-43a4-8b06-7261a8215219",
+          "username": "Llama 3 AI",
+          "message": "Error: Ollama API error: timeout of 60000ms exceeded. Please check if Ollama is running and the llama3 model is available.",
+          "timestamp": "2025-08-05T07:30:23.306Z",
+          "type": "ai"
+        }
+      ],
+      "8277ac50-d573-46f6-ab3a-79fa076b36c3": [
+        {
+          "id": "1db32ac6-8260-4df1-9bfb-714e50bfe6d1",
+          "username": "Ashish",
+          "message": "hello",
+          "timestamp": "2025-08-05T10:58:42.003Z",
+          "type": "user"
+        },
+        {
+          "id": "a37b03b3-545e-4fab-982a-49cde29543f0",
+          "username": "Llama 3 AI",
+          "message": "Nice to meet you! What brings you here today?",
+          "timestamp": "2025-08-05T10:58:46.470Z",
+          "type": "ai"
+        },
+        {
+          "id": "b4ae71d6-d198-4016-b030-4ed2a68df4bf",
+          "username": "Ashish",
+          "message": "hi",
+          "timestamp": "2025-08-05T11:00:38.065Z",
+          "type": "user"
+        },
+        {
+          "id": "173a70dc-137b-46e4-b986-cc76b0a6fe37",
+          "username": "Llama 3 AI",
+          "message": "It seems like there's a bit of a chat starting! Hi back to you, Ashish!\n\nSo, what would you like to talk about? Llama 3 AI and I are all ears (or rather, all text).",
+          "timestamp": "2025-08-05T11:00:51.902Z",
+          "type": "ai"
+        },
+        {
+          "id": "da3fdb00-30f3-4c9a-8394-d03b131922c0",
+          "username": "Ashish",
+          "message": "can you please generate one pythong script which can compare two tables from different mysql hosts",
+          "timestamp": "2025-08-05T11:02:14.425Z",
+          "type": "user"
+        },
+        {
+          "id": "aa7578a7-ddf9-49c4-a322-823ae4e1b650",
+          "username": "Ashish",
+          "message": "can you please generate one pythong script which can compare two tables from different mysql hosts",
+          "timestamp": "2025-08-05T11:02:53.099Z",
+          "type": "user"
+        },
+        {
+          "id": "e78093e0-5cf0-4578-9035-120a02e50b40",
+          "username": "CSIPL AI",
+          "message": "Nice to see the enthusiasm!\n\nI'd be happy to help you with that. Here's a Python script using `mysql-connector-python` library that compares two tables from different MySQL hosts:\n\n```python\nimport mysql.connector\nfrom tabulate import tabulate\n\n# Define the connection parameters for both hosts\nhost1 = {\n    'host': 'localhost',\n    'port': 3306,\n    'username': 'user1',\n    'password': 'pass1',\n    'database': 'db1'\n}\n\nhost2 = {\n    'host': 'remote_host',\n    'port': 3306,\n    'username': 'user2',\n    'password': 'pass2',\n    'database': 'db2'\n}\n\n# Function to connect to a MySQL host and execute a query\ndef execute_query(host):\n    cnx = mysql.connector.connect(**host)\n    cursor = cnx.cursor()\n    return cursor\n\n# Function to compare two tables\ndef compare_tables(table1_host, table1_name, table2_host, table2_name):\n    # Connect to both hosts\n    cursor1 = execute_query(table1_host)\n    cursor2 = execute_query(table2_host)\n\n    # Execute the query on both hosts\n    cursor1.execute(f\"SELECT * FROM {table1_name}\")\n    cursor2.execute(f\"SELECT * FROM {table2_name}\")\n\n    # Fetch all rows from both queries\n    table1_rows = cursor1.fetchall()\n    table2_rows = cursor2.fetchall()\n\n    # Print a comparison report\n    print(\"Table Comparison Report:\")\n    if len(table1_rows) != len(table2_rows):\n        print(f\"Tables have different row counts ({len(table1_rows)} vs {len(table2_rows)})\")\n    else:\n        print(\"Row counts match!\")\n\n    # Use tabulate library to display the difference in data\n    table1_data = [row for row in table1_rows]\n    table2_data = [row for row in table2_rows]\n    headers = [f\"{column}\" for column in cursor1.description[0]]\n    print(tabulate(table1_data, headers, tablefmt=\"grid\"))\n    print(tabulate(table2_data, headers, tablefmt=\"grid\"))\n\n# Compare the two tables\ncompare_tables(host1, 'table1', host2, 'table2')\n```\n\nThis script assumes you have `mysql-connector-python` installed. You'll need to install it using pip: `pip install mysql-connector-python`.\n\nIn this script:\n\n* We define the connection parameters for both hosts as dictionaries.\n* We use two helper functions: `execute_query()` connects to a MySQL host and executes a query, and `compare_tables()` compares two tables by executing queries on both hosts and printing a comparison report.\n* The main part of the script calls the `compare_tables()` function with the connection parameters for both hosts and the names of the tables you want to compare.\n\nPlease note that this script assumes the table structures (e.g., column names, data types) are identical between the two hosts. If the table structures differ, you'll need to modify the script to accommodate those differences.\n\nI hope this helps!",
+          "timestamp": "2025-08-05T11:02:53.106Z",
+          "type": "ai",
+          "isStreaming": false
+        },
+        {
+          "id": "acc99bb0-028c-4135-b3bd-214787e655b6",
+          "username": "Ashish",
+          "message": "can you please generate one pythong script which can compare two tables from different mysql hosts",
+          "timestamp": "2025-08-05T11:28:52.852Z",
+          "type": "user"
+        },
+        {
+          "id": "a6bdb15a-56f2-4243-9c15-baaf8be47931",
+          "username": "Llama 3 AI",
+          "message": "Error: Ollama API error: canceled",
+          "timestamp": "2025-08-05T11:28:52.853Z",
+          "type": "ai",
+          "isStreaming": false
+        },
+        {
+          "id": "a9570e1f-5e69-4239-a5b5-e1477213970f",
+          "username": "Ashish",
+          "message": "can you please generate one pythong script which can compare two tables from different mysql hosts",
+          "timestamp": "2025-08-05T11:29:51.043Z",
+          "type": "user"
+        },
+        {
+          "id": "0e625814-2b9f-49a8-b3bc-6e2322fc70ff",
+          "username": "Llama 3 AI",
+          "message": "Error: canceled",
+          "timestamp": "2025-08-05T11:29:51.045Z",
+          "type": "ai",
+          "isStreaming": false
+        }
+      ],
+      "20fd8d1d-55b1-4ea5-8631-1d47d6459bd6": [
+        {
+          "id": "82c2cc7d-5eec-4671-b1fb-6de8f5a1adc6",
+          "username": "Ashish",
+          "message": "4 + 4 =",
+          "timestamp": "2025-08-05T18:10:57.362Z",
+          "type": "user"
+        },
+        {
+          "id": "e91c3744-2735-4925-8aca-6e5cc69b838f",
+          "username": "Llama 3 AI",
+          "message": "**8**",
+          "timestamp": "2025-08-05T18:10:57.364Z",
+          "type": "ai",
+          "isStreaming": false
+        },
+        {
+          "id": "b7eb4246-1c61-497b-8ada-cffe1539a051",
+          "username": "Ashish",
+          "message": "php laravel trait ?",
+          "timestamp": "2025-08-05T18:11:32.869Z",
+          "type": "user"
+        },
+        {
+          "id": "e2ab3bc4-cd70-4f16-bc84-2c073cf6560c",
+          "username": "Llama 3 AI",
+          "message": "A mix of math and PHP!\n\n**Math**: Ashish, the answer is indeed `8`.\n\n**PHP/Laravel**: A trait in Laravel is a mechanism that allows you to reuse code in your models. It's essentially a way to group related functionality together and include it in multiple places.\n\nHere's an example:\n```php\n// File: PaymentTrait.php\n\ntrait PaymentTrait {\n    public function pay($amount) {\n        // payment logic here\n    }\n}\n```\n\nThen, you can use this trait in your model:\n```php\n// File: User.php\n\nuse App\\Traits\\PaymentTrait;\n\nclass User extends Model {\n    use PaymentTrait;\n\n    // ...\n}\n```\n\nNow, the `pay` method is available in your `User` model. You can include multiple traits in a single class by using the `use` statement.\n\nRemember to format your code with proper indentation and spacing for better readability!",
+          "timestamp": "2025-08-05T18:11:32.875Z",
+          "type": "ai",
+          "isStreaming": false
+        },
+        {
+          "id": "947d2f9b-76e3-4fdc-805f-911946a09e34",
+          "username": "Ashish",
+          "message": "imarti recepie",
+          "timestamp": "2025-08-05T18:12:59.910Z",
+          "type": "user"
+        },
+        {
+          "id": "3251af0f-9827-4778-aaa8-bc350d4917f6",
+          "username": "Llama 3 AI",
+          "message": "**Imarti Recipe**\n\nI'm happy to share this traditional Indian sweet recipe with you!\n\n**Ingredients:**\n* 1 cup all-purpose flour\n* 1/2 cup ghee (clarified butter)\n* 1/4 cup sugar\n* 1/4 cup chopped nuts (almonds or cashews work well)\n* 1/4 teaspoon cardamom powder\n* 1/4 teaspoon saffron threads, soaked in 1 tablespoon milk\n\n**Instructions:**\n\n1. In a mixing bowl, combine the flour, ghee, sugar, and nuts. Mix until the dough comes together.\n2. Knead the dough for about 10 minutes until it becomes smooth and pliable.\n3. Divide the dough into small portions, shape each portion into a cylindrical form, and then flatten it slightly to resemble an imarti (a crispy, flaky pastry).\n4. Heat oil in a deep frying pan over medium heat. When the oil is hot, add a few of the flattened dough pieces to the oil.\n5. Fry the imartis until they are golden brown and puffed up, flipping them occasionally to ensure even cooking.\n6. Remove the fried imartis from the oil with a slotted spoon and place them on paper towels to drain excess oil.\n7. To make the glaze, combine the cardamom powder, saffron threads soaked in milk, and 1 tablespoon sugar in a small bowl. Mix well.\n8. Drizzle the glaze over the warm imartis while they are still slightly crispy.\n9. Serve the imartis warm or at room temperature, dust with powdered sugar if desired.\n\n**Tips:**\n\n* Make sure to fry the imartis until they are golden brown and puffed up for that perfect texture.\n* Adjust the amount of sugar to your taste.\n* Experiment with different nuts or add dried fruits like raisins or cranberries for added flavor and texture.\n\nEnjoy this classic Indian sweet treat!",
+          "timestamp": "2025-08-05T18:12:59.914Z",
+          "type": "ai",
+          "isStreaming": false
+        },
+        {
+          "id": "b4b50e02-5b7a-4e37-b294-4ec8657b50f9",
+          "username": "Ashish",
+          "message": "aaj nu kevu",
+          "timestamp": "2025-08-05T18:15:55.125Z",
+          "type": "user"
+        },
+        {
+          "id": "2aa736ee-3741-4c7f-b097-333d190f9324",
+          "username": "Llama 3 AI",
+          "message": "Error: Ollama API error: canceled",
+          "timestamp": "2025-08-05T18:15:55.128Z",
+          "type": "ai",
+          "isStreaming": false
+        },
+        {
+          "id": "b963fabe-54f3-4ebf-ae1b-11bd098f216d",
+          "username": "Ashish",
+          "message": "I have used wherein in joinclause in laravel and it throws an error joinClause::wherein() is undefined",
+          "timestamp": "2025-08-05T18:16:45.739Z",
+          "type": "user"
+        },
+        {
+          "id": "85c254a4-d471-4fe7-aff5-3d24ca770911",
+          "username": "Llama 3 AI",
+          "message": "**Laravel Join Clause Error**\n\nAshish, I see what's going on here!\n\nIt looks like you're trying to use the `whereIn` method in a Laravel join clause, but it's not recognized.\n\nHere's why:\n\nThe `join` method returns a `JoinClause` object, which has its own set of methods. The `whereIn` method is actually part of the `where` method on the `Query` builder.\n\nTo fix this error, you can chain the `whereIn` method to the `where` method like so:\n```php\nModel::join('table_name', 'condition')\n    ->where(function ($query) {\n        $query->whereIn('column_name', ['value1', 'value2']);\n    });\n```\nThis should fix the issue!\n\nIf you're still having trouble, please provide more context or code snippets for further assistance.\nLlama 3 AI: Thank you for your patience",
+          "timestamp": "2025-08-05T18:16:45.744Z",
+          "type": "ai",
+          "isStreaming": false
+        }
+      ],
+      "New Conversation": [],
+      "general": [],
+      "75b4ee41-f479-4185-a806-2578abab4b50": [
+        {
+          "id": "aef247c5-8bf9-48d0-b98f-e121740ece0d",
+          "username": "Ashish",
+          "message": "Can you evaluate the stocks chart image and provide me the strategy for the trade?",
+          "timestamp": "2025-08-06T05:18:17.737Z",
+          "type": "user"
+        },
+        {
+          "id": "9c50cf53-e725-4010-b80b-ffde4760de8a",
+          "username": "Llama 3 AI",
+          "message": "I'd be happy to help! However, I need you to share the stock's chart image with me. Please paste the image or describe it in words so I can visualize the chart.\n\nOnce I have a better understanding of the chart, I'll provide you with a potential trading strategy based on various technical and fundamental analysis indicators.",
+          "timestamp": "2025-08-06T05:18:17.743Z",
+          "type": "ai",
+          "isStreaming": false
+        },
+        {
+          "id": "d423994a-238d-444d-a53f-bca29beafd77",
+          "username": "Ashish",
+          "message": "can you please explain any one indicators with images?",
+          "timestamp": "2025-08-06T05:19:47.677Z",
+          "type": "user"
+        },
+        {
+          "id": "fc334a0b-1f0b-4b86-b9c6-2f420e5cdb4b",
+          "username": "Llama 3 AI",
+          "message": "I'd be happy to explain an indicator with an image!\n\nLet's take a look at the **Moving Averages** (MA) indicator.\n\n### Moving Average (MA)\n\nThe Moving Average indicator is a popular technical analysis tool that helps traders identify trends and potential reversals. It's calculated by taking the average price of a security over a specified period, typically 50 days or 200 days.\n\nHere's an example image:\n```\n**Chart:** Stock XYZ\n**Timeframe:** Daily\n\n**MA (50)**: 52.00 (blue line)\n**MA (200)**: 48.20 (orange line)\n\n| Time | Price |\n| --- | --- |\n| 1/3 | 55.00 |\n| 1/10 | 53.50 |\n| 1/17 | 51.80 |\n| 1/24 | 52.40 |\n| 1/31 | 56.20 |\n```\nIn this example:\n\n* The **MA (50)** line is the 50-day moving average, which is trending upward.\n* The **MA (200)** line is the 200-day moving average, which is trending downward.\n\nWhen the shorter-term MA (50) crosses above the longer-term MA (200), it's considered a bullish signal, indicating an uptrend. Conversely, when the shorter-term MA (50) crosses below the longer-term MA (200), it's considered a bearish signal, indicating a downtrend.\n\n**Trading Strategy:**\n\nIf you're looking to buy Stock XYZ:\n\n1. Wait for the MA (50) to cross above the MA (200).\n2. Look for confirmation of the trend through other indicators or chart patterns.\n3. Buy the stock when the price touches or breaks above the MA (50).\n\nConversely, if you're looking to sell Stock XYZ:\n\n1. Wait for the MA (50) to cross below the MA (200).\n2. Look for confirmation of the trend through other indicators or chart patterns.\n3. Sell the stock when the price touches or breaks below the MA (50).\n\nRemember, this is just one example indicator and strategy. It's essential to combine multiple indicators and analyze market conditions before making a trade.\n\nPlease feel free to ask if you have any questions or would like me to explain other indicators!",
+          "timestamp": "2025-08-06T05:19:47.678Z",
+          "type": "ai",
+          "isStreaming": false
+        }
+      ]
+    },
+    "activeThreads": {
+      "ashish": "4a2ad76a-379c-4d4b-9b69-2be8270e13f9",
+      "Ashish": "75b4ee41-f479-4185-a806-2578abab4b50"
+    },
+    "users": {}
+  }
+}
